@@ -1,0 +1,15 @@
+{
+  "sites": [
+    {
+      "key": "Ying",
+      "name": "影视|Ying",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/hengdown/Yingshi/main/Ying.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": ""
+    }
+  ]
+}
