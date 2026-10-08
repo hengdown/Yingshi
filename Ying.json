@@ -1,0 +1,15 @@
+{
+  "sites": [
+    {
+      "key": "Ying",
+      "name": "影视|Ying",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/你的用户名/你的仓库名/main/Ying.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": ""
+    }
+  ]
+}
